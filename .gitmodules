@@ -1,4 +1,0 @@
-[submodule "MD.CBAConnector.DotNet"]
-	path = the_genesis_engine/components/MD.CBAConnector.DotNet
-	url = https://github.com/LordMartron94/CBA-DotNet-Communicator
-	branch = main
