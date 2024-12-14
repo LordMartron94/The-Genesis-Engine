@@ -2,3 +2,7 @@
 	path = the_genesis_engine/components/MD.Logging
 	url = https://github.com/LordMartron94/CBA-Logger
 	branch = main
+[submodule "MD.Common"]
+	path = the_genesis_engine/components/MD.DotNet.Common
+	url = https://github.com/LordMartron94/MD.Common
+	branch = main
