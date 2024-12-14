@@ -10,3 +10,7 @@
 	path = the_genesis_engine/components/MD.DotNet.Common
 	url = https://github.com/LordMartron94/MD.Common
 	branch = main
+[submodule "MD.CBAConnector.DotNet"]
+	path = the_genesis_engine/components/MD.CBAConnector.DotNet
+	url = https://github.com/LordMartron94/CBA-DotNet-Communicator
+	branch = main
