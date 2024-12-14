@@ -1,0 +1,4 @@
+[submodule "MD.Logging"]
+	path = the_genesis_engine/components/MD.Logging
+	url = https://github.com/LordMartron94/CBA-Logger
+	branch = main
