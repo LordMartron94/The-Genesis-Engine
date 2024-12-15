@@ -1,0 +1,4 @@
+[submodule "cli_bench"]
+	path = the_genesis_engine/components/cli_bench
+	url = https://github.com/LordMartron94/CLI-Bench
+	branch = main
