@@ -1,0 +1,4 @@
+[submodule "MD.Launcher"]
+	path = the_genesis_engine/components/MD.Launcher
+	url = https://github.com/LordMartron94/MD.Launcher
+	branch = main
