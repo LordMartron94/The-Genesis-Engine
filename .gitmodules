@@ -2,3 +2,7 @@
 	path = the_genesis_engine/components/cli_bench
 	url = https://github.com/LordMartron94/CLI-Bench
 	branch = main
+[submodule "MD.Logging"]
+	path = the_genesis_engine/components/MD.Logging
+	url = https://github.com/LordMartron94/CBA-Logger
+	branch = main
