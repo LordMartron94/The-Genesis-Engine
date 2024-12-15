@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.CBAConnector.DotNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.CBAConnector.DotNet/cba_dotnet_communicator/components/cli_bench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.CBAConnector.DotNet/cba_dotnet_communicator/components/cli_bench/cli_bench/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.CBAConnector.DotNet/cba_dotnet_communicator/components/md.dotnet.common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.DotNet.Common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.Logging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.Logging/cba_logger/components/cli_bench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.Logging/cba_logger/components/cli_bench/cli_bench/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/MD.Logging/cba_logger/components/md_common_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/cli_bench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/the_genesis_engine/components/cli_bench/cli_bench/common" vcs="Git" />
+  </component>
+</project>
