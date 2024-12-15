@@ -1,0 +1,3 @@
+
+-r the_genesis_engine/components/MD.Logging/requirements.txt
+				
